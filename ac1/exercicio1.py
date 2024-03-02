@@ -1,6 +1,6 @@
-a = int(input("qual o valor do parametro a da equação: "))
-b = int(input("qual o valor do parametro b da equação: "))
-c = int(input("qual o valor do parametro c da equação: "))
+a = float(input("qual o valor do parametro a da equação: "))
+b = float(input("qual o valor do parametro b da equação: "))
+c = float(input("qual o valor do parametro c da equação: "))
 
 delta = (b ** 2 - 4 * a * c)
 
