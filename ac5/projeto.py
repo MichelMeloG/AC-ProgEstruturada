@@ -29,9 +29,6 @@ def main():
             dano_m = 0 
 
         vida_a = vida_a - dano_m
-
-        print(dano_m)
-        print(dano_av)
             
         if vida_m <= 0:
             print("monstro morreu")
