@@ -2,15 +2,15 @@ def dia_semana(numero):
     if numero == 1:
         return "domingo"
     elif numero == 2:
-        return "segunda"
+        return "segunda-feira"
     elif numero == 3:
-        return "terça"
+        return "terça-feira"
     elif numero == 4:
-        return "quarta"
+        return "quarta-feira"
     elif numero == 5:
-        return "quinta"
+        return "quinta-feira"
     elif numero == 6:
-        return "sexta"
+        return "sexta-feira"
     elif numero == 7:
         return "sábado"
     else:
